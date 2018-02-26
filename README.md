@@ -10,6 +10,9 @@ for mobile payment with Alipay App or Mobile Web. Requires cordova-android 4.0 o
  - 支持Android和iOS Alipay SDK
 ###主要功能
 
+
+
+
  - 主要功能是：服务器把订单信息签名后，调用该插件调用支付宝sdk进行支付，支付完成后如支付成功，如果是9000状态，还要去服务端去验证是否真正支付
 
 ### Install 安装
